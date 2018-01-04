@@ -1,0 +1,12 @@
+.classpath
+.class
+.project
+.settings
+.tern-project
+*.target
+*.settings
+*.project
+*.build
+.build
+/build
+i
